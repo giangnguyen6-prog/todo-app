@@ -1,0 +1,15 @@
+# FE
+fe/node_modules/
+fe/.nuxt/
+fe/.output/
+fe/.env
+
+# BE
+be/.venv/
+be/__pycache__/
+be/db.sqlite3
+be/.env
+
+# OS / Editor
+.DS_Store
+.vscode/
